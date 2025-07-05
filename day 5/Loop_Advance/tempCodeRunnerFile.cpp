@@ -1,0 +1,1 @@
+Sum of square of first n natural number
